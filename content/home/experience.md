@@ -17,28 +17,41 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Scholar"
+  company = "Lawrence Berkeley National Laboratory"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Berkeley, California"
+  date_start = "2019-09-01"
   date_end = ""
+  description = """Researching numerical (multi)linear algebra for quantum computing"""
+
+[[experience]]
+  title = "PhD Researcher"
+  company = "KU Leuven, Department of Computer Science"
+  company_url = ""
+  location = "Leuven, Belgium"
+  date_start = "2015-09-01"
+  date_end = "2019-09-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+**Dissertation:** Pole swapping methods for the eigenvalue problem --- Rational QR algorithms
+
+* Researched rational Krylov methods for (generalized) eigenvalue problems
+
+* Supervised exercise sessions on numerical mathematics for BSc in Engineering students
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Project engineer"
+  company = "IPCOS"
+  company_url = "[https://ipcos.com](https://ipcos.com/)"
+  location = "Leuven, Belgium"
+  date_start = "2013-08-01"
+  date_end = "2015-09-01"
+  description = """Data-driven modeling for the upstream industry"""
 
 +++
