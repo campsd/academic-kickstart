@@ -30,13 +30,12 @@ abstract: Recordings of neural activity, such as EEG, are an inherent mixture of
 summary:
 
 tags:
-- Pole swapping
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/1687-6180-2014-139'
 url_code: ''
 url_dataset: ''
 url_poster: ''

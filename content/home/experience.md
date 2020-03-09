@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "Lawrence Berkeley National Laboratory"
   company_url = ""
   location = "Berkeley, California"
-  date_start = "2019-09-01"
+  date_start = "2019-11-01"
   date_end = ""
   description = """Researching numerical (multi)linear algebra for quantum computing"""
 
