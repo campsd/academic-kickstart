@@ -1,9 +1,9 @@
 ---
 title: "A rational QZ method"
 authors:
-- admin
-- Karl Meerbergen
-- Raf Vandebril
+- daan-camps
+- karl-meerbergen
+- raf-vandebril
 date: "2019-08-06T00:00:00Z"
 doi: "10.1137/18M1170480"
 

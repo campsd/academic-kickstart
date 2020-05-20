@@ -1,9 +1,9 @@
 ---
 title: "An implicit filter for rational Krylov using core transformations"
 authors:
-- admin
-- Karl Meerbergen
-- Raf Vandebril
+- daan-camps
+- karl-meerbergen
+- raf-vandebril
 date: "2019-01-15T00:00:00Z"
 doi: "10.1016/j.laa.2018.09.021"
 

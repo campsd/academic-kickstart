@@ -2,9 +2,9 @@
 title: "A multishift, multipole rational QZ method with aggressive early deflation"
 authors:
 - Thijs Steel
-- admin
-- Karl Meerbergen
-- Raf Vandebril
+- daan-camps
+- karl-meerbergen
+- raf-vandebril
 date: "2020-05-19T00:00:00Z"
 doi: ""
 

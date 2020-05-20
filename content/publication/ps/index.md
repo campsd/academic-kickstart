@@ -3,8 +3,8 @@ title: "On pole-swapping algorithms for the eigenvalue problem"
 authors:
 - David Watkins
 - Thomas Mach
-- Raf Vandebril
-- admin
+- raf-vandebril
+- daan-camps
 
 date: "2019-06-20T00:00:00Z"
 doi: ""

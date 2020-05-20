@@ -1,9 +1,9 @@
 ---
 title: "Swapping 2 × 2 blocks in the Schur and generalized Schur form"
 authors:
-- admin
+- daan-camps
 - Nicola Mastronardi
-- Raf Vandebril
+- raf-vandebril
 - Paul Van Dooren
 date: "2019-05-27T00:00:00Z"
 doi: "10.1016/j.cam.2019.05.022"

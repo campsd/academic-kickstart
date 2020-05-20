@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2019-11-01T00:00:00Z"
 
 authors:
-- admin
+- daan-camps
 tags:
 
 

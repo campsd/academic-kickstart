@@ -1,7 +1,7 @@
 ---
 title: "Pole swapping methods for the eigenvalue problem: Rational QR algorithms"
 authors:
-- admin
+- daan-camps
 date: "2019-09-11T00:00:00Z"
 doi: ""
 

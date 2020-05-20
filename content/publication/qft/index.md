@@ -1,8 +1,8 @@
 ---
 title: "Quantum Fourier Transform Revisited"
 authors:
-- admin
-- Roel Van Beeumen
+- daan-camps
+- roel-vanbeeumen
 - Chao Yang
 date: "2020-03-08T00:00:00Z"
 doi: ""

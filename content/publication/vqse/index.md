@@ -2,8 +2,8 @@
 title: "Chemistry on quantum computers with virtual quantum subspace expansion"
 authors:
 - Miroslav Urbanek
-- admin
-- Roel Van Beeumen
+- daan-camps
+- roel-vanbeeumen
 - Wibe A. de Jong
 date: "2020-02-28T00:00:00Z"
 doi: ""

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Daan Camps
+title: Daan Camps
 
 # Username (this should match the folder name)
 authors:
-- admin
+- daan-camps
 
 # Is this the primary user of the site?
 superuser: true

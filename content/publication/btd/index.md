@@ -2,7 +2,7 @@
 title: "Block term decomposition for modelling epileptic seizures"
 authors:
 - Borbala Hunyadi
-- admin
+- daan-camps
 - Laurent Sorber
 - Wim Van Paesschen
 - Maarten De Vos

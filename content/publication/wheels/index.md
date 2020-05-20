@@ -1,10 +1,10 @@
 ---
 title: "Introductie tot de wheel theory"
 authors:
-- admin
+- daan-camps
 - Dan Pilbauer
 - Pieterjan Robbe
-- Raf Vandebril
+- raf-vandebril
 - Marcus Webb
 date: "2018-04-01T00:00:00Z"
 doi: ""
