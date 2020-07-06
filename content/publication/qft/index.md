@@ -23,7 +23,7 @@ publication_short: ""
 abstract: The fast Fourier transform (FFT) is one of the most successful numerical algorithms of the 20th century and has found numerous applications in many branches of computational science and engineering. The FFT algorithm can be derived from a particular matrix decomposition of the discrete Fourier transform (DFT) matrix. In this paper, we show that the quantum Fourier transform (QFT) can be derived by further decomposing the diagonal factors of the FFT matrix decomposition into products of matrices with Kronecker product structure. We analyze the implication of this Kronecker product structure on the discrete Fourier transform of rank-1 tensors on a classical computer. We also explain why such a structure can take advantage of an important quantum computer feature that enables the QFT algorithm to attain an exponential speedup on a quantum computer over the FFT algorithm on a classical computer. Further, the connection between the matrix decomposition of the DFT matrix and a quantum circuit is made. We also discuss a natural extension of a radix-2 QFT decomposition to a radix-d QFT decomposition. No prior knowledge of quantum computing is required to understand what is presented in this paper. Yet, we believe this paper may help readers to gain some rudimentary understanding of the nature of quantum computing from a matrix computation point of view.
 
 # Summary. An optional shortened abstract.
-summary: This article reviews the quantum Fouier transform from a matrix analysis perspective.
+summary: An introduction to the quantum Fourier transform from a matrix analysis perspective that provides an alternative derivation of the algorithm.
 
 tags:
 - Quantum Computing
