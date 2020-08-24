@@ -43,7 +43,7 @@ url_pdf: files/thesisDaanCamps.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'http://numa.cs.kuleuven.be/software/rqz/index.html'
 url_slides: ''
 url_source: ''
 url_video: ''
