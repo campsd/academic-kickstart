@@ -4,8 +4,8 @@ authors:
 - daan-camps
 - roel-vanbeeumen
 - Chao Yang
-date: "2020-03-08T00:00:00Z"
-doi: ""
+date: "2020-09-15T00:00:00Z"
+doi: "10.1002/nla.2331"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -14,11 +14,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Numerical Linear Algebra with Applications"
+publication_short: "Numer Linear Algebra Appl."
 
 abstract: The fast Fourier transform (FFT) is one of the most successful numerical algorithms of the 20th century and has found numerous applications in many branches of computational science and engineering. The FFT algorithm can be derived from a particular matrix decomposition of the discrete Fourier transform (DFT) matrix. In this paper, we show that the quantum Fourier transform (QFT) can be derived by further decomposing the diagonal factors of the FFT matrix decomposition into products of matrices with Kronecker product structure. We analyze the implication of this Kronecker product structure on the discrete Fourier transform of rank-1 tensors on a classical computer. We also explain why such a structure can take advantage of an important quantum computer feature that enables the QFT algorithm to attain an exponential speedup on a quantum computer over the FFT algorithm on a classical computer. Further, the connection between the matrix decomposition of the DFT matrix and a quantum circuit is made. We also discuss a natural extension of a radix-2 QFT decomposition to a radix-d QFT decomposition. No prior knowledge of quantum computing is required to understand what is presented in this paper. Yet, we believe this paper may help readers to gain some rudimentary understanding of the nature of quantum computing from a matrix computation point of view.
 

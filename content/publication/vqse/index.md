@@ -5,7 +5,7 @@ authors:
 - daan-camps
 - roel-vanbeeumen
 - Wibe A. de Jong
-date: "2020-08-01T00:00:00Z"
+date: "2020-08-21T00:00:00Z"
 doi: "10.1021/acs.jctc.0c00447"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Joirnal of Chemical Theory and Computation, 2020, 16, 9, 5425-5431"
+publication_short: "J. Chem. Theory Comput."
 
 abstract: Simulating chemical systems on quantum computers has been limited to a few electrons in a minimal basis. We demonstrate experimentally that the virtual quantum subspace expansion (Takeshita, T.; Phys. Rev. X 2020, 10, 011004, 10.1103/PhysRevX.10.011004) can achieve full basis accuracy for hydrogen and lithium dimers, comparable to simulations requiring 20 or more qubits. We developed an approach to minimize the impact of experimental noise on the stability of the generalized eigenvalue problem, a crucial component of the quantum algorithm. In addition, we were able to obtain an accurate potential energy curve for the nitrogen dimer in a quantum simulation on a classical computer.
 
