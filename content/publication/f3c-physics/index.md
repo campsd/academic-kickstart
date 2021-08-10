@@ -1,5 +1,5 @@
 ---
-title: "An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation"
+title: "Algebraic Compression of Quantum Circuits for Hamiltonian Evolution"
 authors:
 - Efekan Kokcu
 - daan-camps
