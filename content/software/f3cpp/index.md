@@ -19,7 +19,7 @@ publishDate: "2019-11-01T00:00:00Z"
 authors:
 - daan-camps
 - roel-vanbeeumen
-doi: "10.5281/zenodo.5160761"
+doi: "10.5281/zenodo.5160875"
 tags:
 - Quantum computing
 
