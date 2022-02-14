@@ -15,15 +15,15 @@ role: Postdoctoral scholar in computational mathematics
 # Organizations/Affiliations
 organizations:
 - name: Lawrence Berkeley National Laboratory
-  url: "https://crd.lbl.gov/"
+  url: "https://crd.lbl.gov/divisions/amcr/applied-mathematics-dept/scalable-solvers/members/postdoctoral-researchers/daan-camps/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include numerical linear algebra, generalized eigenvalue problems, direct methods, iterative solvers, quantum computing. 
+bio: My research interests include quantum algorithms, numerical linear algebra, tensor factorization methods and machine learning.
 
 interests:
 - Numerical Linear Algebra
-- Quantum Computing
-- Complex Network Analysis
+- Quantum Computing and Algorithms
+- Machine Learning
 
 education:
   courses:
@@ -76,6 +76,11 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral researcher working in the Scalable Solvers Group at Lawrence Berkeley National Laboratory on matrix and tensor decomposition techniques for quantum computing.
+Daan Camps is a Postdoctoral researcher in the Scalable Solvers Group 
+at Lawrence Berkeley National Laboratory. He has completed projects on
+[quantum compilation, quantum chemistry, and machine learning for nonlinear 
+tensor factorizations](#publications). Daan developed and contributed to multiple open source 
+[software packages](#software).
 
-I obtained my PhD in Computer Science from KU Leuven where I worked on *pole swapping* methods for eigenvalue problems.
+He has a PhD in Computer Science from KU Leuven where he introduced
+*pole swapping* algorithms for eigenvalue problems.
