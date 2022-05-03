@@ -8,8 +8,8 @@ authors:
 - Wibe A. de Jong
 - roel-vanbeeumen
 - Alexander F. Kemper
-date: "2021-08-09T00:00:00Z"
-doi: ""
+date: "2022-03-10T00:00:00Z"
+doi: "10.1103/PhysRevA.105.032420"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,11 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Physical Review A 105, 032420"
+publication_short: "Phys. Rev. A 105, 032420"
 
 abstract: Unitary evolution under a time dependent Hamiltonian is a key component of simulation on quantum hardware. Synthesizing the corresponding quantum circuit is typically done by breaking the evolution into small time steps, also known as Trotterization, which leads to circuits whose depth scales with the number of steps. When the circuit elements are limited to a subset of SU(4) — or equivalently, when the Hamiltonian may be mapped onto free fermionic models — several identities exist that combine and simplify the circuit. Based on this, we present an algorithm that compresses the Trotter steps into a single block of quantum gates. This results in a fixed depth time evolution for certain classes of Hamiltonians. We explicitly show how this algorithm works for several spin models, and demonstrate its use for adiabatic state preparation of the transverse field Ising model.
 
