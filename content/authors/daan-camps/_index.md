@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral scholar in computational mathematics
+role: Researcher in Advanced Technologies Group
 
 # Organizations/Affiliations
 organizations:
-- name: Lawrence Berkeley National Laboratory
-  url: "https://crd.lbl.gov/divisions/amcr/applied-mathematics-dept/scalable-solvers/members/postdoctoral-researchers/daan-camps/"
+- name: NERSC, Lawrence Berkeley National Laboratory
+  url: "https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum algorithms, numerical linear algebra, tensor factorization methods and machine learning.
+bio: My research interests include quantum algorithms, numerical linear algebra, tensor factorization methods and machine learning. I'm particularly interested in studying the interface between HPC and quantum computing.
 
 interests:
 - Numerical Linear Algebra
 - Quantum Computing and Algorithms
+- HPC
 - Machine Learning
 
 education:
@@ -76,11 +77,9 @@ user_groups:
 - Visitors
 ---
 
-Daan Camps is a Postdoctoral researcher in the Scalable Solvers Group 
-at Lawrence Berkeley National Laboratory. He has completed projects on
-[quantum compilation, quantum chemistry, and machine learning for nonlinear 
-tensor factorizations](#publications). Daan developed and contributed to multiple open source 
-[software packages](#software).
+Daan Camps is a staff member of the Advanced Technologies Group at the National Energy Research Super Computing Center (NERSC) at Lawrence Berkeley National Laboratory. He is interested in the exploring the interface between classical HPC systemsn and quantum hardware.
+
+Prior to joining NERSC, Daan was a postdoctoral researcher in the Scalable Solvers Group at Lawrence Berkeley National Laboratory. He has completed projects on [quantum compilation, quantum chemistry, and machine learning for nonlinear tensor factorizations](#publications). Daan developed and contributed to multiple open source [software packages](#software).
 
 He has a PhD in Computer Science from KU Leuven where he introduced
 *pole swapping* algorithms for eigenvalue problems.

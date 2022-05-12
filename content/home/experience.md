@@ -18,14 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[experience]]
+  title = "Staff/researcher"
+  company = "NERSC, Lawrence Berkeley National Laboratory"
+  company_url = "https://www.nersc.gov/"
+  location = "Berkeley, California"
+  date_start = "2022-04-04"
+  date_end = ""
+  description = """
+  """
 [[experience]]
   title = "Postdoctoral Scholar"
   company = "Lawrence Berkeley National Laboratory"
-  company_url = ""
+  company_url = "https://www.lbl.gov/"
   location = "Berkeley, California"
   date_start = "2019-11-01"
-  date_end = ""
+  date_end = "2022-04-04"
   description = """
   Completed projects on:
   * Quantum algorithms, quantum compilation
@@ -34,8 +42,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "PhD Researcher"
-  company = "KU Leuven, Department of Computer Science"
-  company_url = ""
+  company = "KU Leuven, Department of Computer Science, NUMA"
+  company_url = "https://wms.cs.kuleuven.be/groups/NUMA"
   location = "Leuven, Belgium"
   date_start = "2015-09-01"
   date_end = "2019-09-01"
@@ -52,7 +60,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Project engineer"
   company = "IPCOS"
-  company_url = "[https://ipcos.com](https://ipcos.com/)"
+  company_url = "https://ipcos.com/"
   location = "Leuven, Belgium"
   date_start = "2013-08-01"
   date_end = "2015-09-01"
