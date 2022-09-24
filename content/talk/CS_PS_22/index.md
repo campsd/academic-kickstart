@@ -11,7 +11,7 @@ address:
   postcode: '94720'
   country: United States
 
-summary: Abstract and slides for 2022 postdoc symposium
+summary: Talk on FunFact, a Python package to build your own tensor decomposition model, at the 2022 CS area postdoc symposium
 abstract: "In this talk we introduce FunFact, a Python package that enables flexible and concise tensor algebraic expressions. FunFact offers a rich syntax based on a hybrid mixture of Einstein-like notation and indexless operations designed to describe complex tensor expressions. It provides users with an intrinsically powerful tool to compute functional factorizations of algebraic tensors. Here, a functional factorization is understood as a generalization of well-known linear tensor factorizations such as CP and Tucker decompositions. Because of their increased generality, functional factorizations can yield more compact representations of tensorial data compared to what is possible within existing linear frameworks. An exciting example is shown in the form of radial basis function (RBF) approximations. We further illustrate the use and flexibility of FunFact with example applications for image compression, neural network compression and quantum circuit synthesis. FunFact is GPU- and parallelization-ready thanks to modern numerical linear algebra backends such as JAX/TensorFlow and PyTorch.
 "
 
@@ -42,7 +42,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/yhtang/FunFact"
 url_pdf: ""
 url_slides: "files/talks/CSA_PS_2022.pdf"
 url_video: "https://www.youtube.com/watch?v=O8CwgU2bRME"

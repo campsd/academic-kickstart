@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: Hong Kong
 
-summary: Abstract and slides for SIAM-ALA 2018 presentation.
+summary: Talk on the rational QZ algorithm presented SIAM-ALA 2018 meeting.
 abstract: "The multishift $QZ$ method by Moler & Stewart implicitly applies subspace iteration driven by a polynomial. We have generalized this to the $RQZ$ method, operating on two Hessenberg matrices, and employing subspace iteration driven by a rational function. This is done implicitly without computing matrix inverses.
 In this talk we introduce the $RQZ$ method and explore some possibilities to utilize pole selection as an additional degree of freedom."
 
@@ -38,7 +38,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "files/M117048.pdf"
 url_slides: "files/talks/NASCA18.pdf"
 url_video: ""
 

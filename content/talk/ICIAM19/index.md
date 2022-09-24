@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: Spain
 
-summary: Abstract and slides for ICIAM 2019 presentation.
+summary: Talk on the multishift, multipole rational QZ algorithm presented at ICIAM 2019.
 abstract: " We present a multishift, multipole rational QZ iteration for
 block Hessenberg pencils in this talk. We show that its convergence
 behavior is governed by rational functions. The aggressive early
@@ -47,8 +47,8 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/thijssteel/multishift-multipole-rqz"
+url_pdf: "https://arxiv.org/pdf/1902.10954.pdf"
 url_slides: "files/talks/ICIAM19.pdf"
 url_video: ""
 

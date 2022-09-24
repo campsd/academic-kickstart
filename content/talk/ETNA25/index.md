@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: Italy
 
-summary: Abstract and slides for ICIAM 2019 presentation.
+summary: Talk on approximate rational Krylov methods presented at the ETNA25 conference.
 abstract: "In this presentation we revisit the approximate rational Krylov 
 method.
 We present two alternative but mathematically equivalent formulations 

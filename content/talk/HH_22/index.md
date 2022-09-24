@@ -11,7 +11,7 @@ address:
   postcode: 
   country: Italy
 
-summary: I'm attending the 2022 Householder Symposium.
+summary: Talk on Fast Free Fermion Compiler at XXI Householder Symposium.
 abstract: ""
 
 # Talk start and end times.
@@ -40,9 +40,9 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/QuantumComputingLab/f3cpp"
+url_pdf: "https://arxiv.org/pdf/2108.03283.pdf"
+url_slides: "files/talks/Householder2022.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

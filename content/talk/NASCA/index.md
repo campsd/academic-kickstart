@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: Greece
 
-summary: Abstract and slides for NASCA 2018 presentation.
+summary: Talk on the rational QZ algorithm presented at NASCA 2018.
 abstract: "In this talk we introduce a rational QZ method for the dense, unsymmetric, generalized eigenvalue problem.
 The method operates on matrix pairs in Hessenberg form and implicitly performs nested subspace iteration driven by elementary rational functions. 
 This is achieved without solving any systems.
@@ -42,7 +42,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "files/M117048.pdf"
 url_slides: "files/talks/NASCA18.pdf"
 url_video: ""
 

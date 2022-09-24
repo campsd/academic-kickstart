@@ -77,9 +77,9 @@ user_groups:
 - Visitors
 ---
 
-Daan Camps is a staff member of the Advanced Technologies Group at the National Energy Research Super Computing Center (NERSC) at Lawrence Berkeley National Laboratory. He is interested in the exploring the interface between classical HPC systemsn and quantum hardware.
+[Daan Camps](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/) is a staff member in the [Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/) at the [National Energy Research Super Computing Center (NERSC)](https://www.nersc.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov). He is interested in exploring the interface between classical HPC systems and emerging quantum computing technology.
 
 Prior to joining NERSC, Daan was a postdoctoral researcher in the Scalable Solvers Group at Lawrence Berkeley National Laboratory. He has completed projects on [quantum compilation, quantum chemistry, and machine learning for nonlinear tensor factorizations](#publications). Daan developed and contributed to multiple open source [software packages](#software).
 
-He has a PhD in Computer Science from KU Leuven where he introduced
+He holds a PhD in Computer Science from KU Leuven where he introduced
 *pole swapping* algorithms for eigenvalue problems.

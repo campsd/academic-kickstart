@@ -11,7 +11,7 @@ address:
   postcode: '94720'
   country: United States
 
-summary: Abstract and slides for Berkeley Lab seminar.
+summary: Talk on pole swapping algorithms presented as a Berkeley Lab seminar.
 abstract: "Francis and Kublanovskaya independently introduced the implicit QR method, a bulge chasing algorithm, for computing all eigenvalues of a matrix in the 1960s. Their method has been the algorithm of choice to compute the Schur decomposition of small to medium sized problems and has been named as one of the top 10 algorithms of the twentieth century. In this work we generalize bulge chasing algorithms to pole swapping algorithms and show that this generalization has the benefit of an improved convergence rate. Where bulge chasing can be interpreted as subspace iteration accelerated by polynomials, pole swapping implicitly performs subspace iteration driven by rational functions. Numerical experiments show the competitiveness of our algorithms both in terms of accuracy and speed in comparison to LAPACK implementations, both for the standard and generalized eigenvalue problem."
 
 # Talk start and end times.
@@ -41,7 +41,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "files/thesisDaanCamps.pdf"
 url_slides: "files/talks/BerkeleySeminar.pdf"
 url_video: ""
 

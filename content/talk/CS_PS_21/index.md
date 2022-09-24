@@ -11,7 +11,7 @@ address:
   postcode: '94720'
   country: United States
 
-summary: Abstract and slides for 2021 postdoc symposium
+summary: Talk on quantum circuit synthesis with block encodings presented at 2021 CS area postdoc symposium
 abstract: "One of the challenges in quantum computing is the synthesis of unitary operators into quantum circuits with polylogarithmic gate complexity. Exact synthesis of generic unitaries requires an exponential number of gates in general. We propose a novel approximate quantum circuit synthesis technique by relaxing the unitary constraints and interchanging them for ancilla qubits via block encodings. This approach combines smaller block encodings, which are easier to synthesize, into quantum circuits for larger operators. Due to the use of block encodings, our technique is not limited to unitary operators and can be applied for the synthesis of arbitrary operators. We show that operators which can be approximated by a canonical polyadic expression with a polylogarithmic number of terms can be synthesized with polylogarithmic gate complexity with respect to the matrix dimension."
 
 # Talk start and end times.
@@ -41,7 +41,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2007.01417.pdf"
 url_slides: "files/talks/CSA_PS_2021.pdf"
 url_video: "https://www.youtube.com/watch?v=Od3XITnUu9E"
 

@@ -11,7 +11,7 @@ address:
   postcode: '3001'
   country: Belgium
 
-summary: Abstract and slides for NUMA seminar.
+summary: Talk on rational matrix algorithms presented as part of the NUMA seminar series.
 abstract: "The presentation consists out of two parts. The first part presents the connection between the well known polynomial Krylov method, commonly used as an iterative method for large scale eigenvalue problems, and the equally well known implicit QR algorithm, which is the standard direct method for small to medium sized eigenvalue problems. In the second part we consider the rational Krylov method as an iterative method for the generalized eigenvalue problem and present an analogue connection to a new, direct rational QZ method."
 
 # Talk start and end times.

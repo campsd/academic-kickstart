@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Scientific Reports, 12, Article number: 7712 (2022) "
+publication: "Scientific Reports, 12, Article number: 7712 (2022) "
 publication_short: ""
 
 abstract: We introduce a novel and uniform framework for quantum pixel representations that overarches many of the most popular representations proposed in the recent literature, such as (I)FRQI, (I)NEQR, MCRQI, and (I)NCQI. The proposed QPIXL framework results in more efficient circuit implementations and significantly reduces the gate complexity for all considered quantum pixel representations. Our method only requires a linear number of gates in terms of the number of pixels and does not use ancilla qubits. Furthermore, the circuits only consist of Ry gates and CNOT gates making them practical in the NISQ era. Additionally, we propose a circuit and image compression algorithm that is shown to be highly effective, being able to reduce the necessary gates to prepare an FRQI state for example scientific images by up to 90% without sacrificing image quality. Our algorithms are made publicly available as part of QPIXL++, a Quantum Image Pixel Library.
