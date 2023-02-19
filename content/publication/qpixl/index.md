@@ -1,7 +1,7 @@
 ---
 title: "Quantum pixel representations and compression for N-dimensional images"
 authors:
-- Mercy Amankwah
+- Mercy G. Amankwah
 - daan-camps
 - E. Wes Bethel
 - roel-vanbeeumen
