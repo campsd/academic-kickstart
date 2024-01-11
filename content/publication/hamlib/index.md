@@ -1,7 +1,7 @@
 ---
 title: "HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware"
 authors:
-- Nicolas PD Sawaya
+- nicolas-sawaya
 - Daniel Marti-Dafcik
 - Yang Ho
 - Daniel P Tabor
@@ -11,11 +11,11 @@ authors:
 - Pradeep Dubey
 - Anne Matsuura
 - Nathan Bishop
-- Wibe A de Jong
+- bert-dejong
 - Simon Benjamin
 - Ojas D Parekh
-- Norm M. Tubman
-- Katherine Klymko
+- norm-tubman
+- katie-klymko
 - daan-camps
 date: "2023-06-22T00:00:00Z"
 doi: "10.48550/arXiv.2306.13126"

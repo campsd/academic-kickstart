@@ -1,12 +1,12 @@
 ---
 title: "Algebraic Compression of Free Fermionic Quantum Circuits: Particle Creation, Arbitrary Lattices and Controlled Evolution"
 authors:
-- Efekan Kokcu
+- efekan-kokcu
 - daan-camps
-- Lindsay Bassman Oftelie
-- Wibe A. de Jong
+- lbo
+- bert-dejong
 - roel-vanbeeumen
-- Alexander F. Kemper
+- lex-kemper
 date: "2023-03-16T00:00:00Z"
 doi: "10.48550/arXiv.2303.09538"
 

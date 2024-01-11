@@ -3,7 +3,7 @@ title: "Quantum Fourier Transform Revisited"
 authors:
 - daan-camps
 - roel-vanbeeumen
-- Chao Yang
+- chao-yang
 date: "2020-09-15T00:00:00Z"
 doi: "10.1002/nla.2331"
 

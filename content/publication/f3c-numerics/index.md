@@ -2,10 +2,10 @@
 title: "An Algebraic Quantum Circuit Compression Algorithm for Hamiltonian Simulation"
 authors:
 - daan-camps
-- Efekan Kokcu
-- Lindsay Bassman
-- Wibe A. de Jong
-- Alexander F. Kemper
+- efekan-kokcu
+- lbo
+- bert-dejong
+- lex-kemper
 - roel-vanbeeumen
 date: "2021-08-09T00:00:00Z"
 doi: "10.1137/21M1439298"

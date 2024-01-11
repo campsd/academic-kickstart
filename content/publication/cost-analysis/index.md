@@ -2,9 +2,9 @@
 title: "A Performance Model for Estimating the Cost of Scaling to Practical Quantum Advantage"
 authors:
 - daan-camps
-- Katherine Klymko
+- katie-klymko
 - Brian Austin
-- Nicholas J. Wright
+- nick-wright
 date: "2023-11-13T00:00:00Z"
 doi: "10.1145/3624062.3625533"
 

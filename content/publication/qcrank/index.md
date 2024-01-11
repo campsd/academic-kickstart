@@ -1,7 +1,7 @@
 ---
 title: "Quantum-parallel vectorized data encodings and computations on trapped-ions and transmons QPUs"
 authors:
-- Jan Balewski
+- jan-balewski
 - Mercy G. Amankwah
 - roel-vanbeeumen
 - E. Wes Bethel

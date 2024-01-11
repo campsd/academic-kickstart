@@ -1,16 +1,13 @@
 ---
-title: "Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
+title: "k-commutativity and measurement reduction for expectation values"
 authors:
-- yizhi-shen
+- Ben DalFavero
+- Rahul Sarkar
 - daan-camps
-- Siva Darbha
-- Aaron Sasz
-- katie-klymko
-- David B. Williams-Young
-- norm-tubman
-- roel-vanbeeumen
-date: "2023-06-02T00:00:00Z"
-doi: "10.48550/arXiv.2306.01858"
+- nicolas-sawaya
+- Ryan LaRose
+date: "2023-12-19T00:00:00Z"
+doi: "10.48550/arXiv.2312.11840"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -25,10 +22,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Ground state energy estimation in physics and chemistry is one of the most promising applications of quantum computing. In this paper, we introduce a novel measurement-driven approach that finds eigenenergies by collecting real-time measurements and post-processing them using the machinery of dynamic mode decomposition (DMD). We provide theoretical and numerical evidence that our method converges rapidly even in the presence of noise and show that our method is isomorphic to matrix pencil methods developed independently across various scientific communities. Our DMD-based strategy can systematically mitigate perturbative noise and stands out as a promising hybrid quantum-classical eigensolver.
+abstract: We introduce a notion of commutativity between operators on a tensor product space, nominally Pauli strings on qubits, that interpolates between qubit-wise commutativity and (full) commutativity. We apply this notion, which we call k-commutativity, to measuring expectation values of observables in quantum circuits and show a reduction in the number measurements at the cost of increased circuit depth. Last, we discuss the asymptotic measurement complexity of k-commutativity for several families of n-qubit Hamiltonians, showing examples with O(1), O(√n), and O(n) scaling.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we introduce a novel measurement-driven approach that finds eigenenergies by collecting real-time measurements and post-processing them using the machinery of dynamic mode decomposition (DMD).
+summary: In this paper, we introduce a notion of commutativity between operators on a tensor product space, nominally Pauli strings on qubits, that interpolates between qubit-wise commutativity and (full) commutativity.
 
 tags:
 - Quantum Computing
@@ -37,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #url: ""
-url_pdf: 'https://arxiv.org/pdf/2306.01858.pdf'
+url_pdf: 'https://arxiv.org/pdf/2312.11840.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -49,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Obserable DMD post-processing procedure.'
+  caption: 'Measurement cost of a two-dimensional Fermi-Hubbard Hamiltonian.'
   focal_point: ""
   preview_only: false
 

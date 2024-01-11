@@ -1,12 +1,12 @@
 ---
 title: "Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity"
 authors:
-- Jan Balewski
+- jan-balewski
 - daan-camps
-- Katherine Klymko
+- katie-klymko
 - Andrew Tritt
 date: "2023-08-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2308.00699"
+doi: "https://doi.org/10.1109/QCE57702.2023.00050"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

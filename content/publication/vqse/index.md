@@ -4,7 +4,7 @@ authors:
 - Miroslav Urbanek
 - daan-camps
 - roel-vanbeeumen
-- Wibe A. de Jong
+- bert-dejong
 date: "2020-08-21T00:00:00Z"
 doi: "10.1021/acs.jctc.0c00447"
 

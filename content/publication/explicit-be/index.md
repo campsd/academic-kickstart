@@ -4,7 +4,7 @@ authors:
 - daan-camps
 - Lin Lin
 - roel-vanbeeumen
-- Chao Yang
+- chao-yang
 date: "2022-03-19T00:00:00Z"
 doi: "10.48550/arXiv.2203.10236"
 

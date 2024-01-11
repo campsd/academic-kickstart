@@ -2,9 +2,9 @@
 title: "Exploring Finite Temperature Properties of Materials with Quantum Computers"
 authors:
 - Connor Powers
-- Lindsay Bassman Oftelie  
+- lbo
 - daan-camps
-- Wibe A. de Jong
+- bert-dejong
 date: "2023-02-01T00:00:00Z"
 doi: "10.1038/s41598-023-28317-5"
 

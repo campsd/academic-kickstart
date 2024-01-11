@@ -1,13 +1,13 @@
 ---
 title: "Algebraic Compression of Quantum Circuits for Hamiltonian Evolution"
 authors:
-- Efekan Kokcu
+- efekan-kokcu
 - daan-camps
-- Lindsay Bassman
+- lbo
 - J. K. Freericks
-- Wibe A. de Jong
+- bert-dejong
 - roel-vanbeeumen
-- Alexander F. Kemper
+- lex-kemper
 date: "2022-03-10T00:00:00Z"
 doi: "10.1103/PhysRevA.105.032420"
 
