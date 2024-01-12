@@ -4,7 +4,7 @@ authors:
 - yizhi-shen
 - daan-camps
 - Siva Darbha
-- Aaron Sasz
+- Aaron Szasz
 - katie-klymko
 - David B. Williams-Young
 - norm-tubman
