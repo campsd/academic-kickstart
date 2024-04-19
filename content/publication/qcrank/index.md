@@ -7,8 +7,8 @@ authors:
 - E. Wes Bethel
 - Talita Perciano
 - daan-camps
-date: "2023-01-19T00:00:00Z"
-doi: "10.48550/arXiv.2301.07841"
+date: "2024-02-10T00:00:00Z"
+doi: "10.1038/s41598-024-53720-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,11 +17,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Scientific Reports 14, 3435 (2024)"
+publication_short: "Sci Rep 14, 3435 (2024)"
 
 abstract: Compact quantum data representations are essential to the emerging field of quantum algorithms for data analysis. We introduce two new data encoding schemes, QCrank and QBArt, which have a high degree of quantum parallelism through uniformly controlled rotation gates. QCrank encodes a sequence of real-valued data as rotations of the data qubits, allowing for high storage density. QBArt directly embeds a binary representation of the data in the computational basis, requiring fewer quantum measurements and lending itself to well-understood arithmetic operations on binary data. We present several applications of the proposed encodings for different types of data. We demonstrate quantum algorithms for DNA pattern matching, Hamming weight calculation, complex value conjugation, and retrieving an O(400) bits image, all executed on the Quantinuum QPU. Finally, we use various cloud-accessible QPUs, including IBMQ and IonQ, to perform additional benchmarking experiments.
 

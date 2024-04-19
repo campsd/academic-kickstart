@@ -5,8 +5,8 @@ authors:
 - Lin Lin
 - roel-vanbeeumen
 - chao-yang
-date: "2022-03-19T00:00:00Z"
-doi: "10.48550/arXiv.2203.10236"
+date: "2024-03-12T00:00:00Z"
+doi: "10.1137/22M1484298"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Journal on Matrix Analysis and Applications"
-publication_short: ""
+publication: "SIAM Journal on Matrix Analysis and Applications 45(1), 801-827"
+publication_short: "SIAM J. Matrix Anal. Appl."
 
 abstract: Many standard linear algebra problems can be solved on a quantum computer by using recently developed quantum linear algebra algorithms that make use of block encoding and quantum eigenvalue / singular value transformations. Block encoding embeds a properly scaled matrix of interest A in a larger unitary transformation U that can be decomposed into a product of simpler unitaries and implemented efficiently on a quantum computer. Although quantum algorithms can potentially achieve exponential speedup in solving linear algebra problems compared to the best classical algorithm, such gain in efficiency ultimately hinges on our ability to construct an efficient quantum circuit for the block encoding of A, which is difficult in general, and not trivial even for well structured sparse matrices. In this paper, we give a few examples on how efficient quantum circuits can be explicitly constructed for some well structured sparse matrices, and discuss a few strategies used in these constructions. We are particularly interested in sparse stochastic matrices that represent random walks on a graph, and show how the block encodings of such matrices yield efficient quantum walks.
 

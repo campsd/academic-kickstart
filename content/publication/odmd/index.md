@@ -3,7 +3,7 @@ title: "Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilien
 authors:
 - yizhi-shen
 - daan-camps
-- Siva Darbha
+- siva-darbha
 - Aaron Szasz
 - katie-klymko
 - David B. Williams-Young
