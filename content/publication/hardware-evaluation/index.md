@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #url: "arxiv.org/abs/2007.01417"
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528937'
-url_code: ''
+url_code: 'https://zenodo.org/records/10818960'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,3 +64,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+This work won the [Hans Meuer best research paper award](https://www.isc-hpc.com/press-releases/lbnl-researchers-bag-2024-hans-meuer-award-for-work-on-quantum-computations.html).
+
