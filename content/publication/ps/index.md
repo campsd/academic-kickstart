@@ -1,10 +1,10 @@
 ---
 title: "On pole-swapping algorithms for the eigenvalue problem"
 authors:
-- David Watkins
+- daan-camps
 - Thomas Mach
 - raf-vandebril
-- daan-camps
+- David S. Watkins
 
 date: "2020-09-18T00:00:00Z"
 doi: "10.1553/etna_vol52s480"
