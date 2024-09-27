@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2024 IEEE International Conference on Quantum Computing and Engineering (QCE) **1st place best paper award in Quantum Technologies and Systems Engineering track**"
 publication_short: ""
 
 abstract: Aquila, an analog quantum simulation platform developed by QuEra Computing, supports control of the position and coherent evolution of up to 256 neutral atoms. This study details novel experimental protocols designed for analog quantum simulators that generate Bell state entanglement far away from the blockade regime, construct a Z2 state with a defect induced by an ancilla, and optimize the driving fields schedule to prepare excited states with enhanced fidelity. We additionally evaluate the effectiveness of readout error mitigation techniques in improving the fidelity of measurement results. All experiments were executed on Aquila from QuEra and facilitated by the AWS Braket interface. Our experimental results closely align with theoretical predictions and numerical simulations. The insights gained from this study showcase Aquila's capabilities in handling complex quantum simulations and computations, and also pave the way for new avenues of research in quantum information processing and physics that employ programmable analog hardware platforms.

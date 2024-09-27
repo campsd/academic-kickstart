@@ -22,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted in Phys. Rev. B"
 publication_short: ""
 
 abstract: "Metastable false vacuum states arise in a range of quantum systems and can be observed in various dynamical scenarios, including decay, bubble nucleation, and long-lived oscillations. False vacuum phenomenology has been examined in quantum many-body systems, notably in 1D ferromagnetic Ising spin systems and superfluids. In this paper, we study long-lived oscillations of false and true vacuum states in 1D antiferromagnetic neutral atom chains with long-range Rydberg interactions. We use a staggered local detuning field to achieve confinement. Using theoretical and numerical models, we identify novel spectral signatures of quasiparticle oscillations distinct to antiferromagnetic neutral atom systems and interpret them using a classical energy model of deconfinement from Rydberg tails. Finally, we evaluate the experimental accessibility of our proposed setup on current neutral-atom platforms and discuss experimental feasibility and constraints."
