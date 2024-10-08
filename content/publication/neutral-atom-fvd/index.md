@@ -12,8 +12,8 @@ authors:
 - daan-camps
 - katie-klymko
 
-date: "2024-04-18T00:00:00Z"
-doi: "10.48550/arXiv.2404.12360"
+date: "2024-10-02T00:00:00Z"
+doi: "10.1103/PhysRevB.110.155103"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted in Phys. Rev. B"
+publication: "Phys. Rev. B 110, 155103"
 publication_short: ""
 
 abstract: False vacuum decay and nucleation offer the opportunity to study non-equilibrium dynamical phenomena in quantum many-body systems with confinement. Recent work has examined false vacuum decay in 1D ferromagnetic Ising spins and superfluids. In this paper, we study false vacuum nucleation dynamics in 1D antiferromagnetic neutral atom chains with Rydberg interactions, using both numerical simulations and analytic modeling. We apply a staggered local detuning field to generate the false and true vacuum states. Our efforts focus on two dynamical regimes decay and annealing. In the first, we corroborate the phenomenological decay rate scaling and determine the associated parameter range for the decay process; in the second, we uncover and elucidate a procedure to anneal the false vacuum from the initial to the final system, with intermediate nucleation events. We further propose experimental protocols to prepare the required states and perform quenches on near-term neutral atom quantum simulators, examining the experimental feasibility of our proposed setup and parameter regime.

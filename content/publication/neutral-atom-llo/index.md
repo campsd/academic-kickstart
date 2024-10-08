@@ -1,5 +1,5 @@
 ---
-title: "Long-lived oscillations of false and true vacuum states in neutral atom systems"
+title: "Long-lived oscillations of metastable states in neutral atom systems"
 authors:
 - siva-darbha
 - milan-kornjaca
@@ -12,8 +12,8 @@ authors:
 - katie-klymko
 - daan-camps
 
-date: "2024-04-18T00:00:00Z"
-doi: "10.48550/arXiv.2404.12371"
+date: "2024-10-07T00:00:00Z"
+doi: "10.1103/PhysRevB.110.155114"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -25,13 +25,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted in Phys. Rev. B"
+publication: "Phys. Rev. B, 110, 155114"
 publication_short: ""
 
-abstract: "Metastable false vacuum states arise in a range of quantum systems and can be observed in various dynamical scenarios, including decay, bubble nucleation, and long-lived oscillations. False vacuum phenomenology has been examined in quantum many-body systems, notably in 1D ferromagnetic Ising spin systems and superfluids. In this paper, we study long-lived oscillations of false and true vacuum states in 1D antiferromagnetic neutral atom chains with long-range Rydberg interactions. We use a staggered local detuning field to achieve confinement. Using theoretical and numerical models, we identify novel spectral signatures of quasiparticle oscillations distinct to antiferromagnetic neutral atom systems and interpret them using a classical energy model of deconfinement from Rydberg tails. Finally, we evaluate the experimental accessibility of our proposed setup on current neutral-atom platforms and discuss experimental feasibility and constraints."
+abstract: "Metastable states arise in a range of quantum systems and can be observed in various dynamical scenarios, including decay, bubble nucleation, and long-lived oscillations. The phenomenology of metastable states has been examined in quantum many-body systems, notably in one-dimensional (1D) ferromagnetic Ising spin systems and superfluids. In this paper, we study long-lived oscillations of metastable and ground states in 1D antiferromagnetic neutral atom chains with long-range Rydberg interactions. We use a staggered local detuning field to achieve confinement. Using theoretical and numerical models, we identify novel spectral signatures of quasiparticle oscillations distinct to antiferromagnetic neutral atom systems and interpret them using a classical energy model of short-range meson repulsion. Finally, we evaluate the experimental accessibility of our proposed setup on current neutral-atom platforms and discuss experimental feasibility and constraints."
 
 # Summary. An optional shortened abstract.
-summary: "We study the dynamics of long-lived oscillations of false and true vacuum states in neutral atom systems."
+summary: "We study the dynamics of long-lived oscillations of metastable states in neutral atom systems."
 
 tags:
 - Quantum Computing
