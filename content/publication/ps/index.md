@@ -2,9 +2,9 @@
 title: "On pole-swapping algorithms for the eigenvalue problem"
 authors:
 - daan-camps
-- Thomas Mach
+- thomas-mach
 - raf-vandebril
-- David S. Watkins
+- david-watkins
 
 date: "2020-09-18T00:00:00Z"
 doi: "10.1553/etna_vol52s480"

@@ -23,7 +23,7 @@ bio: My research interests include quantum algorithms, numerical linear algebra,
 interests:
 - Numerical Linear Algebra
 - Quantum Computing and Algorithms
-- HPC
+- High Performance Computing (HPC)
 - Machine Learning
 
 education:
@@ -49,9 +49,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:daan.camps@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CampsDaan
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Lal_R_wAAAAJ
@@ -77,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-[Daan Camps](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/) is a staff member in the [Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/) at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov). He is interested in exploring the interface between classical HPC systems and emerging quantum computing technology.
+[Daan Camps](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/daan-camps/) is a quantum computing and HPC architecture and performance engineer in the [Advanced Technologies Group](https://www.nersc.gov/about/nersc-staff/advanced-technologies-group/) at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov). He is interested in exploring the interface between classical HPC systems and emerging quantum computing technology.
 
 Prior to joining NERSC, Daan was a postdoctoral researcher in the Scalable Solvers Group at Lawrence Berkeley National Laboratory. He has completed projects on [quantum compilation, quantum chemistry, and machine learning for nonlinear tensor factorizations](#publications). Daan developed and contributed to multiple open source [software packages](#software).
 

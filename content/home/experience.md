@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Staff/researcher"
+  title = "Quantum computing and HPC architecture and perfomance engineer"
   company = "NERSC, Lawrence Berkeley National Laboratory"
   company_url = "https://www.nersc.gov/"
   location = "Berkeley, California"
