@@ -1,13 +1,25 @@
 ---
-title: "Pole-Swapping Algorithms for the Eigenvalue Problem"
+title: "QCaMP: A 4-Week Summer Camp Introducing High School Students to Quantum Information Science and Technology"
 authors:
+- Megan Ivory
+- jan-balewski
+- Alisa Bettale
+- Jaden Brewer
+- Rachel Boren
 - daan-camps
-- thomas-mach
-- raf-vandebril
-- david-watkins
+- Lisa Hackett
+- Martin Juarez
+- Alina Kononov
+- Kan-Heng Lee
+- Maryanne Long
+- Andy Mounce
+- Sue Mniszewski
+- Ravi K. Naik
+- Scott Pakin
+- Ernesto Sanchez
+date: "2025-04-22T00:00:00Z"
+doi: "10.48550/arXiv.2504.15977"
 
-date: "2025-05-01T00:00:00Z"
-doi: "10.1137/1.9781611978377"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,26 +28,25 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Spotlights"
+publication: ""
 publication_short: ""
 
-abstract: This monograph is about a class of methods for solving matrix eigenvalue problems.
+abstract: The 2024 Quantum Computing, Math and Physics Camp (QCaMP) for Students was a 4-week long summer camp aimed at introducing high school students to quantum concepts and careers, including applications spanning quantum computing, sensing, and communication. The program ran for 7 hours/day, Monday-Friday, July 1-26, and included hands-on modules and activities, professional development, and project-based learning. Here we provide details on the camp curriculum and outcomes based on pre and post knowledge and attitudes assessments.
 
 # Summary. An optional shortened abstract.
-summary: This monograph is about a class of methods for solving matrix eigenvalue problems.
-
+summary: In this paper, we provide details on the  curriculum and outcomes of the 2024 Quantum Computing, Math and Physics Camp (QCaMP).
 
 tags:
-- Pole swapping
+- Quantum Computing
 featured: false
 
 # links:
 # - name: ""
-#url: "arxiv.org/abs/2002.12902"
-url_pdf: ''
+#url: ""
+url_pdf: 'https://arxiv.org/pdf/2504.15977'
 url_code: ''
 url_dataset: ''
 url_poster: ''

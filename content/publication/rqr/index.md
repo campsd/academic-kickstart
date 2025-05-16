@@ -6,8 +6,8 @@ authors:
 - raf-vandebril
 - david-watkins
 
-date: "2024-11-26T00:00:00Z"
-doi: "10.48550/arXiv.2411.17671"
+date: "2025-04-29T00:00:00Z"
+doi: "10.1016/j.laa.2025.04.018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Linear Algebra and its Applications"
 publication_short: ""
 
 abstract: Pole-swapping algorithms, generalizations of bulge-chasing algorithms, have been shown to be a viable alternative to the bulge-chasing QZ algorithm for solving the generalized eigenvalue problem for a matrix pencil A - $\lambda$B. It is natural to try to devise a pole-swapping algorithm that solves the standard eigenvalue problem for a single matrix A. This paper introduces such an algorithm and shows that it is competitive with Francis's bulge-chasing QR algorithm.
